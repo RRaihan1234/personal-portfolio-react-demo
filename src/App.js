@@ -379,7 +379,7 @@ function App() {
           <Nav className="menu-navbar-nav1">
             <Scrollspy 
                     /* className="scrollspyMod" */ items={ ['home', 'about', 'education', 'experience', 'portfolio', 'contact'] } 
-                    currentClassName="isCurrent" offset={-1}>
+                    currentClassName="isCurrent" offset={200}>
                 {/* <Nav.Link href="#home" className='link1 homeClass' onClick={hide}>HOME</Nav.Link> */}
                     <li className='link1' onClick={hide}><a href="#home">HOME</a></li>
                     <li className='link1' onClick={hide}><a href="#about">ABOUT</a></li>
