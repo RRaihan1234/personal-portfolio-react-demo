@@ -249,9 +249,9 @@ nav {
     font-weight: bold;
   }
   
-  /* .isCurrent a{
+  .isCurrent a{
     color:var(--primary-text);
-  } */
+  }
   
 
 
