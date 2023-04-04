@@ -510,6 +510,30 @@ function App() {
                     </div>
                 </div>
             </div>
+            <div className="row align-items-center">
+                <div className="col-lg-7 order-lg-1 order-2 banner-content">
+                    <p className="row1">Hi, my name is </p>
+                    <h1 className="row2">Shah Md. Raihanul Haque</h1>
+                    <p className="row3">I am a web development enthusiast, based in Bangladesh.</p>
+                </div>
+                <div className="col-lg-5 order-lg-2 order-1 text-center">
+                    <div className="top-right-img">
+                        <img src={myImage} className="img-fluid" alt="myPhoto" />
+                    </div>
+                </div>
+            </div>
+            <div className="row align-items-center">
+                <div className="col-lg-7 order-lg-1 order-2 banner-content">
+                    <p className="row1">Hi, my name is </p>
+                    <h1 className="row2">Shah Md. Raihanul Haque</h1>
+                    <p className="row3">I am a web development enthusiast, based in Bangladesh.</p>
+                </div>
+                <div className="col-lg-5 order-lg-2 order-1 text-center">
+                    <div className="top-right-img">
+                        <img src={myImage} className="img-fluid" alt="myPhoto" />
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
     {/* Banner section exit */}
@@ -652,7 +676,6 @@ function App() {
                             Neural Semiconductor Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
                     <p className="p4">3. Former Intern (February 12, 2019 - August 12, 2019), Neural Semiconductor 
                         Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
-                    <h2 className="text-center bg-secondary">Experience</h2>
                     <p className="p2">1. Web Development [Doing it personally] (September 19, 2021 - Present),
                         Dhaka, Bangladesh
 
@@ -661,7 +684,6 @@ function App() {
                             Neural Semiconductor Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
                     <p className="p4">3. Former Intern (February 12, 2019 - August 12, 2019), Neural Semiconductor 
                         Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
-                    <h2 className="text-center bg-secondary">Experience</h2>
                     <p className="p2">1. Web Development [Doing it personally] (September 19, 2021 - Present),
                         Dhaka, Bangladesh
 
@@ -670,7 +692,6 @@ function App() {
                             Neural Semiconductor Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
                     <p className="p4">3. Former Intern (February 12, 2019 - August 12, 2019), Neural Semiconductor 
                         Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
-                    <h2 className="text-center bg-secondary">Experience</h2>
                     <p className="p2">1. Web Development [Doing it personally] (September 19, 2021 - Present),
                         Dhaka, Bangladesh
 
@@ -679,7 +700,6 @@ function App() {
                             Neural Semiconductor Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
                     <p className="p4">3. Former Intern (February 12, 2019 - August 12, 2019), Neural Semiconductor 
                         Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
-                    <h2 className="text-center bg-secondary">Experience</h2>
                     <p className="p2">1. Web Development [Doing it personally] (September 19, 2021 - Present),
                         Dhaka, Bangladesh
 
@@ -688,7 +708,6 @@ function App() {
                             Neural Semiconductor Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
                     <p className="p4">3. Former Intern (February 12, 2019 - August 12, 2019), Neural Semiconductor 
                         Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
-                    <h2 className="text-center bg-secondary">Experience</h2>
                     <p className="p2">1. Web Development [Doing it personally] (September 19, 2021 - Present),
                         Dhaka, Bangladesh
 
@@ -697,7 +716,6 @@ function App() {
                             Neural Semiconductor Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
                     <p className="p4">3. Former Intern (February 12, 2019 - August 12, 2019), Neural Semiconductor 
                         Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
-                    <h2 className="text-center bg-secondary">Experience</h2>
                     <p className="p2">1. Web Development [Doing it personally] (September 19, 2021 - Present),
                         Dhaka, Bangladesh
 
@@ -706,7 +724,6 @@ function App() {
                             Neural Semiconductor Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
                     <p className="p4">3. Former Intern (February 12, 2019 - August 12, 2019), Neural Semiconductor 
                         Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
-                    <h2 className="text-center bg-secondary">Experience</h2>
                     <p className="p2">1. Web Development [Doing it personally] (September 19, 2021 - Present),
                         Dhaka, Bangladesh
 
@@ -715,7 +732,6 @@ function App() {
                             Neural Semiconductor Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
                     <p className="p4">3. Former Intern (February 12, 2019 - August 12, 2019), Neural Semiconductor 
                         Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
-                    <h2 className="text-center bg-secondary">Experience</h2>
                     <p className="p2">1. Web Development [Doing it personally] (September 19, 2021 - Present),
                         Dhaka, Bangladesh
 
@@ -724,15 +740,7 @@ function App() {
                             Neural Semiconductor Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
                     <p className="p4">3. Former Intern (February 12, 2019 - August 12, 2019), Neural Semiconductor 
                         Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
-                    <h2 className="text-center bg-secondary">Experience</h2>
-                    <p className="p2">1. Web Development [Doing it personally] (September 19, 2021 - Present),
-                        Dhaka, Bangladesh
-
-                    </p>
-                    <p className="p3">2. Former Associate Engineer (August 18, 2019 - July 31, 2021),
-                            Neural Semiconductor Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
-                    <p className="p4">3. Former Intern (February 12, 2019 - August 12, 2019), Neural Semiconductor 
-                        Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
+                    
                 </div>
                 
             </div>
