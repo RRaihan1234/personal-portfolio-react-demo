@@ -534,6 +534,42 @@ function App() {
                       JSON Server, Asynchronous Javascript, Event Loop, Unit Testing, Javascript, Typescript,
                        HTML, CSS, Bootstrap, Docker, Microservices using Node JS, RabbitMQ, API Gateway, 
                        Netlify, Vercel, Render, Git, Github etc.
+                    My name is Raihanul. I am from Bangladesh. I am a web development enthusiast. 
+                    Actually, I am an EEE graduate. I have a professional experience of almost 2.5 years, 
+                    but it is not related to Web/Software Development. I have been working on web development
+                     personally since September 19, 2021. During this time I used React 
+                     JS, Redux, Angular, SASS, LESS, Node JS, Express JS, MongoDB, MySQL, MERN, MEAN,
+                      Firebase, EJS Template Engine, JSON Web Token, Multer, Express Validator, Socket.io, 
+                      JSON Server, Asynchronous Javascript, Event Loop, Unit Testing, Javascript, Typescript,
+                       HTML, CSS, Bootstrap, Docker, Microservices using Node JS, RabbitMQ, API Gateway, 
+                       Netlify, Vercel, Render, Git, Github etc.
+                    My name is Raihanul. I am from Bangladesh. I am a web development enthusiast. 
+                    Actually, I am an EEE graduate. I have a professional experience of almost 2.5 years, 
+                    but it is not related to Web/Software Development. I have been working on web development
+                     personally since September 19, 2021. During this time I used React 
+                     JS, Redux, Angular, SASS, LESS, Node JS, Express JS, MongoDB, MySQL, MERN, MEAN,
+                      Firebase, EJS Template Engine, JSON Web Token, Multer, Express Validator, Socket.io, 
+                      JSON Server, Asynchronous Javascript, Event Loop, Unit Testing, Javascript, Typescript,
+                       HTML, CSS, Bootstrap, Docker, Microservices using Node JS, RabbitMQ, API Gateway, 
+                       Netlify, Vercel, Render, Git, Github etc.
+                    My name is Raihanul. I am from Bangladesh. I am a web development enthusiast. 
+                    Actually, I am an EEE graduate. I have a professional experience of almost 2.5 years, 
+                    but it is not related to Web/Software Development. I have been working on web development
+                     personally since September 19, 2021. During this time I used React 
+                     JS, Redux, Angular, SASS, LESS, Node JS, Express JS, MongoDB, MySQL, MERN, MEAN,
+                      Firebase, EJS Template Engine, JSON Web Token, Multer, Express Validator, Socket.io, 
+                      JSON Server, Asynchronous Javascript, Event Loop, Unit Testing, Javascript, Typescript,
+                       HTML, CSS, Bootstrap, Docker, Microservices using Node JS, RabbitMQ, API Gateway, 
+                       Netlify, Vercel, Render, Git, Github etc.
+                    My name is Raihanul. I am from Bangladesh. I am a web development enthusiast. 
+                    Actually, I am an EEE graduate. I have a professional experience of almost 2.5 years, 
+                    but it is not related to Web/Software Development. I have been working on web development
+                     personally since September 19, 2021. During this time I used React 
+                     JS, Redux, Angular, SASS, LESS, Node JS, Express JS, MongoDB, MySQL, MERN, MEAN,
+                      Firebase, EJS Template Engine, JSON Web Token, Multer, Express Validator, Socket.io, 
+                      JSON Server, Asynchronous Javascript, Event Loop, Unit Testing, Javascript, Typescript,
+                       HTML, CSS, Bootstrap, Docker, Microservices using Node JS, RabbitMQ, API Gateway, 
+                       Netlify, Vercel, Render, Git, Github etc.
                     </p>
                 </div>
                 
@@ -559,6 +595,42 @@ function App() {
                                 Rangpur, Bangladesh (GPA-5/5)</p>
                           <p className="p7">3. SSC in Science (2011), Rangpur Zila School,
                               Rangpur, Bangladesh (GPA-5/5)</p>
+                          <p className="p5">1. BSc in EEE (September 2018), United International 
+                            University, Dhaka, Bangladesh (CGPA-3.93/4)</p>
+                           <p className="p6">2. HSC in Science (2013), Rangpur Govt. College, 
+                                Rangpur, Bangladesh (GPA-5/5)</p>
+                          <p className="p7">3. SSC in Science (2011), Rangpur Zila School,
+                              Rangpur, Bangladesh (GPA-5/5)</p>
+                          <p className="p5">1. BSc in EEE (September 2018), United International 
+                            University, Dhaka, Bangladesh (CGPA-3.93/4)</p>
+                           <p className="p6">2. HSC in Science (2013), Rangpur Govt. College, 
+                                Rangpur, Bangladesh (GPA-5/5)</p>
+                          <p className="p7">3. SSC in Science (2011), Rangpur Zila School,
+                              Rangpur, Bangladesh (GPA-5/5)</p>
+                          <p className="p5">1. BSc in EEE (September 2018), United International 
+                            University, Dhaka, Bangladesh (CGPA-3.93/4)</p>
+                           <p className="p6">2. HSC in Science (2013), Rangpur Govt. College, 
+                                Rangpur, Bangladesh (GPA-5/5)</p>
+                          <p className="p7">3. SSC in Science (2011), Rangpur Zila School,
+                              Rangpur, Bangladesh (GPA-5/5)</p>
+                          <p className="p5">1. BSc in EEE (September 2018), United International 
+                            University, Dhaka, Bangladesh (CGPA-3.93/4)</p>
+                           <p className="p6">2. HSC in Science (2013), Rangpur Govt. College, 
+                                Rangpur, Bangladesh (GPA-5/5)</p>
+                          <p className="p7">3. SSC in Science (2011), Rangpur Zila School,
+                              Rangpur, Bangladesh (GPA-5/5)</p>
+                          <p className="p5">1. BSc in EEE (September 2018), United International 
+                            University, Dhaka, Bangladesh (CGPA-3.93/4)</p>
+                           <p className="p6">2. HSC in Science (2013), Rangpur Govt. College, 
+                                Rangpur, Bangladesh (GPA-5/5)</p>
+                          <p className="p7">3. SSC in Science (2011), Rangpur Zila School,
+                              Rangpur, Bangladesh (GPA-5/5)</p>
+                          <p className="p5">1. BSc in EEE (September 2018), United International 
+                            University, Dhaka, Bangladesh (CGPA-3.93/4)</p>
+                           <p className="p6">2. HSC in Science (2013), Rangpur Govt. College, 
+                                Rangpur, Bangladesh (GPA-5/5)</p>
+                          <p className="p7">3. SSC in Science (2011), Rangpur Zila School,
+                              Rangpur, Bangladesh (GPA-5/5)</p>
                 </div>
                 
             </div>
@@ -571,6 +643,87 @@ function App() {
         <div className="container">
             <div className="row">
                 <div className="col-sm-12 text-left mb-5">
+                    <h2 className="text-center bg-secondary">Experience</h2>
+                    <p className="p2">1. Web Development [Doing it personally] (September 19, 2021 - Present),
+                        Dhaka, Bangladesh
+
+                    </p>
+                    <p className="p3">2. Former Associate Engineer (August 18, 2019 - July 31, 2021),
+                            Neural Semiconductor Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
+                    <p className="p4">3. Former Intern (February 12, 2019 - August 12, 2019), Neural Semiconductor 
+                        Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
+                    <h2 className="text-center bg-secondary">Experience</h2>
+                    <p className="p2">1. Web Development [Doing it personally] (September 19, 2021 - Present),
+                        Dhaka, Bangladesh
+
+                    </p>
+                    <p className="p3">2. Former Associate Engineer (August 18, 2019 - July 31, 2021),
+                            Neural Semiconductor Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
+                    <p className="p4">3. Former Intern (February 12, 2019 - August 12, 2019), Neural Semiconductor 
+                        Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
+                    <h2 className="text-center bg-secondary">Experience</h2>
+                    <p className="p2">1. Web Development [Doing it personally] (September 19, 2021 - Present),
+                        Dhaka, Bangladesh
+
+                    </p>
+                    <p className="p3">2. Former Associate Engineer (August 18, 2019 - July 31, 2021),
+                            Neural Semiconductor Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
+                    <p className="p4">3. Former Intern (February 12, 2019 - August 12, 2019), Neural Semiconductor 
+                        Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
+                    <h2 className="text-center bg-secondary">Experience</h2>
+                    <p className="p2">1. Web Development [Doing it personally] (September 19, 2021 - Present),
+                        Dhaka, Bangladesh
+
+                    </p>
+                    <p className="p3">2. Former Associate Engineer (August 18, 2019 - July 31, 2021),
+                            Neural Semiconductor Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
+                    <p className="p4">3. Former Intern (February 12, 2019 - August 12, 2019), Neural Semiconductor 
+                        Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
+                    <h2 className="text-center bg-secondary">Experience</h2>
+                    <p className="p2">1. Web Development [Doing it personally] (September 19, 2021 - Present),
+                        Dhaka, Bangladesh
+
+                    </p>
+                    <p className="p3">2. Former Associate Engineer (August 18, 2019 - July 31, 2021),
+                            Neural Semiconductor Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
+                    <p className="p4">3. Former Intern (February 12, 2019 - August 12, 2019), Neural Semiconductor 
+                        Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
+                    <h2 className="text-center bg-secondary">Experience</h2>
+                    <p className="p2">1. Web Development [Doing it personally] (September 19, 2021 - Present),
+                        Dhaka, Bangladesh
+
+                    </p>
+                    <p className="p3">2. Former Associate Engineer (August 18, 2019 - July 31, 2021),
+                            Neural Semiconductor Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
+                    <p className="p4">3. Former Intern (February 12, 2019 - August 12, 2019), Neural Semiconductor 
+                        Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
+                    <h2 className="text-center bg-secondary">Experience</h2>
+                    <p className="p2">1. Web Development [Doing it personally] (September 19, 2021 - Present),
+                        Dhaka, Bangladesh
+
+                    </p>
+                    <p className="p3">2. Former Associate Engineer (August 18, 2019 - July 31, 2021),
+                            Neural Semiconductor Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
+                    <p className="p4">3. Former Intern (February 12, 2019 - August 12, 2019), Neural Semiconductor 
+                        Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
+                    <h2 className="text-center bg-secondary">Experience</h2>
+                    <p className="p2">1. Web Development [Doing it personally] (September 19, 2021 - Present),
+                        Dhaka, Bangladesh
+
+                    </p>
+                    <p className="p3">2. Former Associate Engineer (August 18, 2019 - July 31, 2021),
+                            Neural Semiconductor Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
+                    <p className="p4">3. Former Intern (February 12, 2019 - August 12, 2019), Neural Semiconductor 
+                        Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
+                    <h2 className="text-center bg-secondary">Experience</h2>
+                    <p className="p2">1. Web Development [Doing it personally] (September 19, 2021 - Present),
+                        Dhaka, Bangladesh
+
+                    </p>
+                    <p className="p3">2. Former Associate Engineer (August 18, 2019 - July 31, 2021),
+                            Neural Semiconductor Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
+                    <p className="p4">3. Former Intern (February 12, 2019 - August 12, 2019), Neural Semiconductor 
+                        Ltd, Tafuri Technologies, Dhaka, Bangladesh</p>
                     <h2 className="text-center bg-secondary">Experience</h2>
                     <p className="p2">1. Web Development [Doing it personally] (September 19, 2021 - Present),
                         Dhaka, Bangladesh
@@ -709,7 +862,6 @@ function App() {
                     <div className="footer-logo mb-3 mb-md-0">
                         <h2 className="bg-secondary">Contact Me</h2>
                         <p>Gmail ID : ronyraihan141@gmail.com</p>
-                        {/* <p>Gmail ID : ronyraihan141@gmail.com</p>
                         <p>Gmail ID : ronyraihan141@gmail.com</p>
                         <p>Gmail ID : ronyraihan141@gmail.com</p>
                         <p>Gmail ID : ronyraihan141@gmail.com</p>
@@ -722,7 +874,23 @@ function App() {
                         <p>Gmail ID : ronyraihan141@gmail.com</p>
                         <p>Gmail ID : ronyraihan141@gmail.com</p>
                         <p>Gmail ID : ronyraihan141@gmail.com</p>
-                        <p>Gmail ID : ronyraihan141@gmail.com</p> */}
+                        <p>Gmail ID : ronyraihan141@gmail.com</p>
+                        <p>Gmail ID : ronyraihan141@gmail.com</p>
+                        <p>Gmail ID : ronyraihan141@gmail.com</p>
+                        <p>Gmail ID : ronyraihan141@gmail.com</p>
+                        <p>Gmail ID : ronyraihan141@gmail.com</p>
+                        <p>Gmail ID : ronyraihan141@gmail.com</p>
+                        <p>Gmail ID : ronyraihan141@gmail.com</p>
+                        <p>Gmail ID : ronyraihan141@gmail.com</p>
+                        <p>Gmail ID : ronyraihan141@gmail.com</p>
+                        <p>Gmail ID : ronyraihan141@gmail.com</p>
+                        <p>Gmail ID : ronyraihan141@gmail.com</p>
+                        <p>Gmail ID : ronyraihan141@gmail.com</p>
+                        <p>Gmail ID : ronyraihan141@gmail.com</p>
+                        <p>Gmail ID : ronyraihan141@gmail.com</p>
+                        <p>Gmail ID : ronyraihan141@gmail.com</p>
+                        <p>Gmail ID : ronyraihan141@gmail.com</p>
+                        <p>Gmail ID : ronyraihan141@gmail.com</p>
                     </div>
                 </div>
             </div>
